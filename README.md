@@ -4,3 +4,8 @@ To build the testing set, we follow the pipeline in Multiverse to  extract traje
 
 <img width="1299" alt="image" src="https://github.com/HRHLALALA/Benchmark-on-ForkingPath/assets/32263355/875a56c1-4c72-4b89-912c-9af8daac98b8">
 
+**Update**
+* We released the preprocessed PECNet-format pickles.
+
+**Notebooks will be released soon.**
+
